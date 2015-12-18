@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Pear</string>
+		<key>price</key>
+		<real>62.5</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Notepad</string>
+		<key>price</key>
+		<real>2.53</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pencil</string>
+		<key>price</key>
+		<real>0.35</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bread</string>
+		<key>price</key>
+		<real>3.12</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mango</string>
+		<key>price</key>
+		<real>1.25</real>
+	</dict>
+</array>
+</plist>
